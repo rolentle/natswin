@@ -1,0 +1,2 @@
+Use stefan's mlb_terminal gem.
+then use %x{ unix command} in ruby to get the data.

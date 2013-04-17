@@ -1,3 +1,0 @@
-game = %x{mlb games --date "yesterday" | grep Nationals}.split("\t")
-teams = game[1].split(" ")
-
